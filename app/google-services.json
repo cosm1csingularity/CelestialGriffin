@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216037270276",
+    "project_id": "celestial-griffin",
+    "storage_bucket": "celestial-griffin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216037270276:android:c8f736fb0d6c8cb3afa651",
+        "android_client_info": {
+          "package_name": "com.my.hc.rpg.kingdom.simulato0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216037270276-ckn3tm5ger3qdo65rpd6t70p6k2ihje3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4wHXc94ZvWWpUj1zMrGkrOLsdOhnuKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216037270276-ckn3tm5ger3qdo65rpd6t70p6k2ihje3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

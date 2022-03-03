@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Celestial Griffin</string>
+    <string name="facebook_app_id">898811871076881</string>
+    <string name="fb_login_protocol_scheme">fb898811871076881</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="starttext">High up in the mountains you meet a mythical creature. The creature looked into your eyes and you heard a voice in your head. "Only destiny could have brought you here. Can you help me?"</string>
+</resources>
